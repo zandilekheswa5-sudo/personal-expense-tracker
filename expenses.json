@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2026-10-01",
+        "description": "Groceries",
+        "category": "Food",
+        "amount": 250.0
+    },
+    {
+        "date": "2026-10-01",
+        "description": "Taxi",
+        "category": "Transport",
+        "amount": 100.0
+    },
+    {
+        "date": "2026-10-01",
+        "description": "Electricity",
+        "category": "Bills",
+        "amount": 200.0
+    },
+    {
+        "date": "2026-10-01",
+        "description": "Clothes",
+        "category": "Shopping",
+        "amount": 300.0
+    },
+    {
+        "date": "2026-10-01",
+        "description": "movie",
+        "category": "Entertainment",
+        "amount": 250.0
+    }
+]
